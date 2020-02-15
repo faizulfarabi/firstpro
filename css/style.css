@@ -1,0 +1,35 @@
+body{
+	background: #e0dcdc;
+}
+.box1{
+	width: 1000px;
+	margin: 30px auto;
+	padding: 25px;
+	background: #bdc5bd;
+	border-radius: 25px;
+}
+.box1 h1{
+	font-size: 35px;
+	color: red;
+	text-align: center;
+	margin-top: 0;
+}
+.box1 img{
+	max-width: 100%;
+}
+.box1 p{
+	line-height: 1.5;
+	text-align: justify;
+}
+.ex{
+	color: #a79439;
+    font-size: 45px;
+}
+.el{
+	color: #236b16;
+    font-size: 45px;
+}
+.name{
+	color: #5858cc;
+    text-shadow: 5px 5px 5px #504c4c;
+}
